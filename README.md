@@ -1,6 +1,6 @@
 # AstroPy 
 
-This is a repository containing a python program for a variety of use cases regarding [elaboration].
+This is a repository containing a python program for a variety of use cases regarding [elaboration]. Computing the X Y coords of both points in space , and the 2nd task is translating the points to the night sky.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -15,7 +15,7 @@ This is a repository containing a python program for a variety of use cases rega
 
 ## Features
 
-- 
+- python script that calculates (elaboration)
 
 ## Prerequisites
 
