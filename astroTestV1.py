@@ -14,11 +14,8 @@ from PIL import Image
 
 # --- Helper Functions --- #
 
-def natural_sort_key(s) :
-    # function for natural sorting of anything file related (v/ useful)
-    # ex. ['a10', 'a2'] -> ['a2', 'a10']
-    return [int(part) if part.isdigit() else part.lower() 
-            for part in re.split('([0-9]+)', s)]
+def helperfunc :
+    pass
 
 # --- Main Entry Point --- #
 
